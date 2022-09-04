@@ -71,6 +71,10 @@ header {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
+hr {
+    border: 1px solid #eee;
+}
+
 @media screen and (max-width: 500px) {
     header {
         padding-top: 0;
