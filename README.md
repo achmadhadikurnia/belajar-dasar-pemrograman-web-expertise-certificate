@@ -1,2 +1,5 @@
 # Dicoding: Belajar Dasar Pemrograman Web
-##  Semantic HTML dan Layouting
+## Submission
+Semantic HTML dan Layouting
+## Certificate
+[View](https://www.dicoding.com/certificates/ERZRM61YQPYV)
